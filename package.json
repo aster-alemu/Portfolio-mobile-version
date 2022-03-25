@@ -1,7 +1,7 @@
 {
   "name": "Portfolio-mobile-version",
   "version": "1.0.0",
-  "description": "",
+  "description": "> This is the second project at Microverse first week activity.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +23,6 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
-  }
+  },
+  "dependencies": {}
 }
