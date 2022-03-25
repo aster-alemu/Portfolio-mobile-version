@@ -2,6 +2,10 @@
 
 > This is the second project at Microverse first week activity.
 
+## Screenshot
+
+![Screen-capture](https://user-images.githubusercontent.com/99412916/160132151-f60a5493-af8a-4ac7-a651-8a74c885cefa.GIF)
+
 ## Built With
 
 - HTML 
