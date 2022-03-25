@@ -1,0 +1,97 @@
+header {
+  width: 100%;
+  height: 92px;
+  background-color: #3C3A39;
+  margin-bottom: 120px;
+}
+
+header h3 {
+  width: 77px;
+  height: 24px;
+  padding-top: 10px;
+  padding-left: 12px;
+  font-family: Roboto;
+  color: #FFFFFF;
+  text-align: center;
+  display: block;
+  float: left;
+}
+
+header i{
+  width: 18px;
+  height: 12px;
+  margin-top: 30px;
+  padding-top: 6px;
+  margin-right: 30px;
+  margin-left: 3px;
+  display: block;
+  float: right;
+  color: #FFFFFF;
+}
+
+.about-me{
+  background-color: black;
+  width: 400px;
+  height: 938px;
+}
+
+.about-me h1 {
+  color: #FF6B00;
+  font-family: Crete Round;
+  font-size: 56px;
+  line-height: 64px;
+  text-align: left;
+  vertical-align: top;
+  letter-spacing: 0.37px;
+  width: 327px;
+  height: 124px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.about-me h2 {
+  color: white;
+  height: 27px;
+  width: 327px;
+  margin-left: 24px;
+  margin-right: 24px;
+  border-radius: nullpx; 
+}
+
+.about-me p {
+  color: #FFFFFF;
+  width: 327px;
+  height: 123px;
+  margin-left: 24px;
+  margin-right: 24px;
+  font-family: poppins;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.social {
+  display: flex;
+  gap: 25px;
+  flex-direction: row;
+}
+
+a {
+  color: #DBD8D7;
+  font-size: 16px;
+}
+.hero {
+background: url("Vector.png");
+height: 124px;
+padding: 50px 24px;
+background-repeat: no-repeat;
+padding-bottom: 172px;
+background-position-x: right;
+background-position-y: 120px;
+transform: rotate(-164.51);
+}
+
+i {
+  font-size: 24px;
+}
+
