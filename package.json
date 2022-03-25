@@ -1,8 +1,16 @@
 {
   "name": "Portfolio-mobile-version",
   "version": "1.0.0",
-  "description": "> This is the second project at Microverse first week activity.",
+  "description": "",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "hint": "^6.1.10",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,13 +24,5 @@
   "bugs": {
     "url": "https://github.com/aster-alemu/Portfolio-mobile-version/issues"
   },
-  "homepage": "https://github.com/aster-alemu/Portfolio-mobile-version#readme",
-  "devDependencies": {
-    "hint": "^6.1.10",
-    "stylelint": "^13.13.1",
-    "stylelint-config-standard": "^21.0.0",
-    "stylelint-csstree-validator": "^1.9.0",
-    "stylelint-scss": "^3.21.0"
-  },
-  "dependencies": {}
+  "homepage": "https://github.com/aster-alemu/Portfolio-mobile-version#readme"
 }
