@@ -1,23 +1,29 @@
-  header {
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+
+header {
   width: 100%;
   height: 92px;
-  background-color: #3C3A39;
+  background-color: #3c3a39;
   margin-bottom: 120px;
-  }
+}
 
-  header h3 {
+header h3 {
   width: 77px;
   height: 24px;
   padding-top: 10px;
   padding-left: 12px;
-  font-family: Roboto;
-  color: #FFFFFF;
+  font-family: Roboto, sans-serif;
+  color: #fff;
   text-align: center;
   display: block;
   float: left;
-  }
+}
 
-  header i{
+i {
+  font-size: 24px;
+}
+
+header i {
   width: 18px;
   height: 12px;
   margin-top: 30px;
@@ -26,18 +32,18 @@
   margin-left: 3px;
   display: block;
   float: right;
-  color: #FFFFFF;
-  }
+  color: #fff;
+}
 
-  .about-me{
-  background-color: black;
+.about-me {
+  background-color: #000;
   width: 400px;
   height: 938px;
-  }
+}
 
-  .about-me h1 {
-  color: #FF6B00;
-  font-family: Crete Round;
+.about-me h1 {
+  color: #ff6b00;
+  font-family: Crete Round, sans-serif;
   font-size: 56px;
   line-height: 64px;
   text-align: left;
@@ -47,50 +53,46 @@
   height: 124px;
   margin-left: 24px;
   margin-right: 24px;
-  }
+}
 
-  .about-me h2 {
-  color: white;
+.about-me h2 {
+  color: #fff;
   height: 27px;
   width: 327px;
   margin-left: 24px;
   margin-right: 24px;
-  border-radius: nullpx; 
-  }
+  border-radius: 0;
+}
 
-  .about-me p {
-  color: #FFFFFF;
+.about-me p {
+  color: #fff;
   width: 327px;
   height: 123px;
   margin-left: 24px;
   margin-right: 24px;
-  font-family: poppins;
+  font-family: poppins, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  }
+}
 
-  .social {
+.social {
   display: flex;
   gap: 25px;
   flex-direction: row;
-  }
+}
 
-  a {
-  color: #DBD8D7;
+a {
+  color: #dbb8d7;
   font-size: 16px;
-  }
-  .hero {
-  background: url("Vector.png");
+}
+
+.hero {
+  background: url("image/Vector.png");
   height: 124px;
   padding: 50px 24px;
   background-repeat: no-repeat;
   padding-bottom: 172px;
   background-position-x: right;
   background-position-y: 120px;
-  transform: rotate(-164.51);
 }
-
-  i {
-  font-size: 24px;
-  }
