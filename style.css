@@ -301,6 +301,17 @@ a {
   margin-left: 24px;
 }
 
+.button5 {
+  cursor: not-allowed;
+  pointer-events: none;
+  color: #c0c0c0;
+  background-color: #fff;
+}
+
+.button5:enabled {
+  color: #e5e5e5;
+}
+
 .rectangle button {
   display: flex;
   justify-content: center;
